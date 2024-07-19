@@ -26,3 +26,4 @@ class CreateNewPost(generics.GenericAPIView):
                 'HasError': True,
                 'status': 400
             })
+    
